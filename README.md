@@ -3,7 +3,7 @@
 
 <h4>Angular:</h4>
 
-<b>Scaffolding:</b>
+<b>Scaffolding:</b><br/>
 https://github.com/ericmdantas/generator-ng-fullstack<br/>
 https://github.com/angular/angular-cli<br/>
 https://github.com/JCThomas4214/GOAT-yeoman<br/>
@@ -11,7 +11,7 @@ https://github.com/AngularClass/angular-starter<br/>
 https://github.com/ngx-rocket/starter-kit<br/>
 https://github.com/sgbj/generator-aspnetcore-angular2<br/>
 
-<b>Component, controls, libraries:</b>
+<b>Component, controls, libraries:</b><br/>
 https://github.com/alanmacgowan/awesome-angular<br/>
 http://angular-js.in/<br/>
 http://valor-software.com/ngx-bootstrap/#/<br/>
