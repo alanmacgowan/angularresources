@@ -20,7 +20,7 @@
 * https://www.primefaces.org/primeng/#/
 * https://github.com/mattlewis92/angular-calendar
 * https://ng-bootstrap.github.io/#/home
-
+* http://ng-lightning.github.io/ng-lightning/#/
 <hr>
 
 <h4>Material Design:</h4>
