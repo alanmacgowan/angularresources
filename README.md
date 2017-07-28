@@ -11,6 +11,8 @@
 * https://github.com/ngx-rocket/starter-kit
 * https://github.com/sgbj/generator-aspnetcore-angular2
 * https://github.com/preboot/angular-webpack
+* https://github.com/angular/universal-starter
+* https://github.com/mgechev/angular-seed
 
 <b>Component, controls, libraries:</b><br/>
 * https://github.com/alanmacgowan/awesome-angular
@@ -21,10 +23,6 @@
 * https://github.com/mattlewis92/angular-calendar
 * https://ng-bootstrap.github.io/#/home
 * http://ng-lightning.github.io/ng-lightning/#/
-<hr>
-
-<h4>Material Design:</h4>
-
 * https://material.angular.io/
 
 <hr>
@@ -34,3 +32,7 @@
 * https://bootsnipp.com/
 * https://startbootstrap.com
 * https://www.bootstrapzero.com/
+
+<h4>Typescript:</h4>
+
+* https://github.com/Microsoft/TypeScript-Node-Starter
