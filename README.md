@@ -33,6 +33,20 @@
 * https://startbootstrap.com
 * https://www.bootstrapzero.com/
 
+<hr>
+
 <h4>Typescript:</h4>
 
 * https://github.com/Microsoft/TypeScript-Node-Starter
+* https://github.com/alexjoverm/typescript-library-starter
+
+<hr>
+
+<h4>Sample Apps:</h4>
+
+* https://github.com/kmaida/mean-rsvp-auth0
+* https://github.com/AngularShowcase/angular2-sample-app
+* https://github.com/techcoaching/TinyERP
+
+
+
