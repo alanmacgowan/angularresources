@@ -13,6 +13,9 @@
 * https://github.com/preboot/angular-webpack
 * https://github.com/angular/universal-starter
 * https://github.com/mgechev/angular-seed
+* https://github.com/mattlewis92/generator-angular-library
+* https://github.com/angular/quickstart
+
 
 <b>Component, controls, libraries:</b><br/>
 * https://github.com/alanmacgowan/awesome-angular
