@@ -30,6 +30,10 @@
 * https://github.com/NG-ZORRO/ng-zorro-antd
 * https://github.com/ag-grid/ag-grid
 * https://github.com/angular/flex-layout
+* https://github.com/brillout/awesome-angular-components
+* http://demos.creative-tim.com/get-shit-done/index.html
+* https://www.creative-tim.com/bootstrap-themes/angular-dashboard
+* https://getuikit.com/
 
 <hr>
 
@@ -45,6 +49,12 @@
 
 * https://getmdl.io/templates/
 * https://templateflip.com/material-design-html5-templates-free-download/
+
+<hr>
+
+<h4>Foundation: </h4>
+
+* http://foundation.zurb.com/
 
 <hr>
 
