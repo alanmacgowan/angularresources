@@ -34,6 +34,7 @@
 * http://demos.creative-tim.com/get-shit-done/index.html
 * https://www.creative-tim.com/bootstrap-themes/angular-dashboard
 * https://getuikit.com/
+* https://github.com/designmodo/Flat-UI
 
 <hr>
 
