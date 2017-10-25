@@ -44,6 +44,7 @@
 * https://startbootstrap.com
 * https://www.bootstrapzero.com/
 * https://bootswatch.com/
+* https://adminlte.io/
 
 <hr>
 
