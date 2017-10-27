@@ -45,6 +45,7 @@
 * https://www.bootstrapzero.com/
 * https://bootswatch.com/
 * https://adminlte.io/
+* https://github.com/froala/design-blocks
 
 <hr>
 
